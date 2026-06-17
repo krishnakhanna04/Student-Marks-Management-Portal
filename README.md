@@ -1,9 +1,9 @@
-📘 Student Marks Management System
+Student Marks Management System
 
 A full-stack web application designed to simplify student marks management with two separate dashboards – one for Teachers and one for Admins.
 
-🚀 Features
-👩‍🏫 Teacher Dashboard
+Features
+Teacher Dashboard
 
 Upload and manage student marks for their assigned subjects.
 
@@ -11,7 +11,7 @@ View the list of subjects they teach.
 
 Generate individual student reports.
 
-🧑‍💼 Admin Dashboard
+Admin Dashboard
 
 Add and manage teachers.
 
@@ -21,7 +21,7 @@ Create and manage courses and subjects.
 
 Export final consolidated marksheets uploaded by teachers.
 
-🛠️ Tech Stack
+Tech Stack
 
 Frontend: HTML, CSS, JavaScript
 
@@ -29,7 +29,7 @@ Backend: Spring Boot (Java)
 
 Database: MongoDB
 
-📂 Project Structure
+Project Structure
 
 Admin Module → Handles teacher, student, course, subject, and marksheet management.
 
